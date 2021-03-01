@@ -1,0 +1,12 @@
+html, body{
+    background-color: orange;
+    height:100%
+}
+ .container{
+    height:60%;
+    width: 100%;
+    
+}
+.h2{
+    color:white;
+}
